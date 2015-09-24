@@ -24,7 +24,7 @@ sudo make install
 ```
 
 ### Documentation
-DEMO: http://121.42.10.151:9900/
+DEMO: http://121.42.10.151:9900/  test/test
 <p>xMonitor开源社区QQ群: 
 
 
